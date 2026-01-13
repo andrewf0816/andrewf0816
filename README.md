@@ -1,5 +1,5 @@
 # Hello, I'm Andrew Fernandez
-<a href="www.linkedin.com/in/fernandez-andrew"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="(https://www.linkedin.com/in/fernandez-andrew)"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 I am a cybersecurity graduate student pursuing entry-level Cybersecurity and SOC Analyst roles. CompTIA Security+ certified, with hands-on experience in security operations through SOC labs and simulated SOC environments. Focused on alert triage, log analysis, incident investigation, and SIEM-based monitoring. Comfortable documenting investigations, identifying false positives, and escalating potential threats based on evidence. Strong interest in blue team security, incident response, and cybercrime investigation. Motivated to contribute as a reliable, detail-oriented analyst while learning from experienced security teams in a collaborative environment
 
