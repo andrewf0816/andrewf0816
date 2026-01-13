@@ -20,7 +20,13 @@ My journey in IT has led me to develop a strong passion for cybersecurity, and I
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
+
+### SIEM
+<div>
+    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
+</div>
 
 ### Network
 <div>
@@ -35,11 +41,11 @@ My journey in IT has led me to develop a strong passion for cybersecurity, and I
     <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
 </div>
 
-### SIEM
+### Threat Intelligence
 <div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
+  <img src="https://img.shields.io/badge/-VirusTotal-394EFF?style=for-the-badge&logo=virustotal&logoColor=white" />
+  <img src="https://img.shields.io/badge/-ANY.RUN-4A90E2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-AbuseIPDB-0047AB?style=for-the-badge" />
 </div>
 
 ### Digital Forensics
@@ -48,6 +54,13 @@ My journey in IT has led me to develop a strong passion for cybersecurity, and I
   <img src="https://img.shields.io/badge/Magnet_Axiom-5A2D82?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Autopsy-003B57?style=for-the-badge" />
   <img src="https://img.shields.io/badge/FTK_Forensic_Toolkit-7A7A7A?style=for-the-badge" />
+</div>
+
+
+### Platforms
+<div>
+  <img src="https://img.shields.io/badge/-Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </div>
 
 ## Certifications
