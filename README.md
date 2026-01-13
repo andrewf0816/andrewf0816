@@ -8,7 +8,6 @@ Cybersecurity graduate student pursuing entry-level Cybersecurity and SOC Analys
 My journey in IT has led me to develop a strong passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
