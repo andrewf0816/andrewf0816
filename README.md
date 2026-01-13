@@ -25,7 +25,7 @@ My journey in IT has led me to develop a strong passion for cybersecurity, and I
 ### Network
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
+    <img src="https://img.shields.io/badge/-nmap-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
     <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
 </div>
 
@@ -40,6 +40,14 @@ My journey in IT has led me to develop a strong passion for cybersecurity, and I
     <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
     <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
+</div>
+
+### Digital Forensics
+<div>
+  <img src="https://img.shields.io/badge/Cellebrite-2E77BC?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Magnet_Axiom-5A2D82?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Autopsy-003B57?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/FTK_Forensic_Toolkit-7A7A7A?style=for-the-badge" />
 </div>
 
 ## Certifications
