@@ -40,12 +40,6 @@ My journey in IT has led me to develop a strong passion for cybersecurity, and I
     <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
 </div>
 
-### Threat Intelligence
-<div>
-  <img src="https://img.shields.io/badge/-VirusTotal-394EFF?style=for-the-badge&logo=virustotal&logoColor=white" />
-  <img src="https://img.shields.io/badge/-ANY.RUN-4A90E2?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-AbuseIPDB-0047AB?style=for-the-badge" />
-</div>
 
 ### Digital Forensics
 <div>
@@ -69,5 +63,4 @@ My journey in IT has led me to develop a strong passion for cybersecurity, and I
 </div>
 
 ## Projects
-- Detection Lab
-- SOC Automation Project
+
