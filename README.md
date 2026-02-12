@@ -7,7 +7,7 @@ Cybersecurity graduate student pursuing an entry-level SOC or Cybersecurity Anal
 
 My journey in IT has led me to develop a strong passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 
-## Skills
+## Relevant Skills
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
@@ -18,6 +18,11 @@ My journey in IT has led me to develop a strong passion for cybersecurity, and I
 | Case Management with TheHive                  | SOC Automation Lab|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
+</div>
+
+## All Projects
+
+</div>
 ## Tools
 
 ### SIEM
